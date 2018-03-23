@@ -1,2 +1,2 @@
 print("Herro worrd")
-print()
+print("Laa Laa Laa Laa")
